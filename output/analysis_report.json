@@ -1,0 +1,127 @@
+{
+  "scenes_analysed": 10,
+  "avg_predicted_occupancy_rate": 44.7,
+  "avg_gt_occupancy_rate": 43.0,
+  "results": [
+    {
+      "scene": 1,
+      "image": "2012-09-12_06_36_36_jpg.rf.007cfe9ae01356b41e81396d5bc3ce19.jpg",
+      "gt_vacant": 100,
+      "gt_occupied": 0,
+      "gt_occupancy_rate": 0.0,
+      "pred_vacant": 121,
+      "pred_occupied": 1,
+      "pred_total": 122,
+      "pred_occupancy_rate": 0.8,
+      "output_file": "scene_01_yolo.jpg"
+    },
+    {
+      "scene": 2,
+      "image": "2012-09-28_05_45_56_jpg.rf.f7d31763db84efaa973ae2576865f226.jpg",
+      "gt_vacant": 100,
+      "gt_occupied": 0,
+      "gt_occupancy_rate": 0.0,
+      "pred_vacant": 121,
+      "pred_occupied": 5,
+      "pred_total": 126,
+      "pred_occupancy_rate": 4.0,
+      "output_file": "scene_02_yolo.jpg"
+    },
+    {
+      "scene": 3,
+      "image": "2012-09-15_07_02_01_jpg.rf.60100e130540d9f40485fbb18e896a92.jpg",
+      "gt_vacant": 98,
+      "gt_occupied": 2,
+      "gt_occupancy_rate": 2.0,
+      "pred_vacant": 121,
+      "pred_occupied": 2,
+      "pred_total": 123,
+      "pred_occupancy_rate": 1.6,
+      "output_file": "scene_03_yolo.jpg"
+    },
+    {
+      "scene": 4,
+      "image": "2012-09-16_07_02_57_jpg.rf.cc4d0ab12823c0f0e2de1a0d40cd5381.jpg",
+      "gt_vacant": 98,
+      "gt_occupied": 2,
+      "gt_occupancy_rate": 2.0,
+      "pred_vacant": 104,
+      "pred_occupied": 1,
+      "pred_total": 105,
+      "pred_occupancy_rate": 1.0,
+      "output_file": "scene_04_yolo.jpg"
+    },
+    {
+      "scene": 5,
+      "image": "2012-10-11_17_56_57_jpg.rf.47b1774f6fcab7380b6b5ea711a23510.jpg",
+      "gt_vacant": 54,
+      "gt_occupied": 46,
+      "gt_occupancy_rate": 46.0,
+      "pred_vacant": 57,
+      "pred_occupied": 67,
+      "pred_total": 124,
+      "pred_occupancy_rate": 54.0,
+      "output_file": "scene_05_yolo.jpg"
+    },
+    {
+      "scene": 6,
+      "image": "2012-11-10_12_17_55_jpg.rf.d83350103a57fd2ba33c3a36ee3adbac.jpg",
+      "gt_vacant": 54,
+      "gt_occupied": 46,
+      "gt_occupancy_rate": 46.0,
+      "pred_vacant": 56,
+      "pred_occupied": 54,
+      "pred_total": 110,
+      "pred_occupancy_rate": 49.1,
+      "output_file": "scene_06_yolo.jpg"
+    },
+    {
+      "scene": 7,
+      "image": "2012-09-11_15_53_00_jpg.rf.8537f6252c0519cea23fa12293bbe52b.jpg",
+      "gt_vacant": 29,
+      "gt_occupied": 71,
+      "gt_occupancy_rate": 71.0,
+      "pred_vacant": 26,
+      "pred_occupied": 81,
+      "pred_total": 107,
+      "pred_occupancy_rate": 75.7,
+      "output_file": "scene_07_yolo.jpg"
+    },
+    {
+      "scene": 8,
+      "image": "2012-09-12_11_56_00_jpg.rf.fcce171df9588fce307f43493f4b25aa.jpg",
+      "gt_vacant": 29,
+      "gt_occupied": 71,
+      "gt_occupancy_rate": 71.0,
+      "pred_vacant": 28,
+      "pred_occupied": 83,
+      "pred_total": 111,
+      "pred_occupancy_rate": 74.8,
+      "output_file": "scene_08_yolo.jpg"
+    },
+    {
+      "scene": 9,
+      "image": "2012-10-11_09_01_34_jpg.rf.a855bd1bf79f55987ccd134bcf2851f0.jpg",
+      "gt_vacant": 4,
+      "gt_occupied": 96,
+      "gt_occupancy_rate": 96.0,
+      "pred_vacant": 8,
+      "pred_occupied": 102,
+      "pred_total": 110,
+      "pred_occupancy_rate": 92.7,
+      "output_file": "scene_09_yolo.jpg"
+    },
+    {
+      "scene": 10,
+      "image": "2012-10-11_09_26_35_jpg.rf.47d8442e513b9d1c8f589a1910c25713.jpg",
+      "gt_vacant": 4,
+      "gt_occupied": 96,
+      "gt_occupancy_rate": 96.0,
+      "pred_vacant": 8,
+      "pred_occupied": 105,
+      "pred_total": 113,
+      "pred_occupancy_rate": 92.9,
+      "output_file": "scene_10_yolo.jpg"
+    }
+  ]
+}

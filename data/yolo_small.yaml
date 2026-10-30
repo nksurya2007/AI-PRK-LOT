@@ -1,0 +1,8 @@
+path: D:/VAC/AI PRK LOT/data/yolo_subset
+train: train/images
+val: valid/images
+
+nc: 2
+names:
+  0: space-empty
+  1: space-occupied

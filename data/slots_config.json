@@ -1,0 +1,809 @@
+{
+  "description": "50 Parking Slots Layout",
+  "reference_image": "2012-09-11_15_53_00_jpg.rf.8537f6252c0519cea23fa12293bbe52b.jpg",
+  "image_width": 416,
+  "image_height": 416,
+  "total_slots": 50,
+  "slots": [
+    {
+      "slot_id": 1,
+      "bbox": [
+        90,
+        106,
+        105,
+        133
+      ],
+      "normalized": [
+        0.2356,
+        0.2885,
+        0.0361,
+        0.0625
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 2,
+      "bbox": [
+        100,
+        107,
+        115,
+        134
+      ],
+      "normalized": [
+        0.2596,
+        0.2909,
+        0.0349,
+        0.0661
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 3,
+      "bbox": [
+        112,
+        107,
+        125,
+        134
+      ],
+      "normalized": [
+        0.2861,
+        0.2909,
+        0.0337,
+        0.0661
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 4,
+      "bbox": [
+        122,
+        106,
+        137,
+        133
+      ],
+      "normalized": [
+        0.3113,
+        0.2885,
+        0.0361,
+        0.0661
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 5,
+      "bbox": [
+        133,
+        108,
+        147,
+        134
+      ],
+      "normalized": [
+        0.3365,
+        0.2909,
+        0.0337,
+        0.0625
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 6,
+      "bbox": [
+        149,
+        106,
+        163,
+        132
+      ],
+      "normalized": [
+        0.3762,
+        0.2873,
+        0.0325,
+        0.0637
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 7,
+      "bbox": [
+        162,
+        107,
+        173,
+        132
+      ],
+      "normalized": [
+        0.4038,
+        0.2885,
+        0.0276,
+        0.0601
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 8,
+      "bbox": [
+        173,
+        107,
+        184,
+        134
+      ],
+      "normalized": [
+        0.4303,
+        0.2909,
+        0.0252,
+        0.0637
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 9,
+      "bbox": [
+        183,
+        106,
+        194,
+        132
+      ],
+      "normalized": [
+        0.4543,
+        0.2873,
+        0.0264,
+        0.0637
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 10,
+      "bbox": [
+        194,
+        107,
+        205,
+        132
+      ],
+      "normalized": [
+        0.4808,
+        0.2885,
+        0.0276,
+        0.0613
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 11,
+      "bbox": [
+        205,
+        108,
+        215,
+        130
+      ],
+      "normalized": [
+        0.506,
+        0.2873,
+        0.0252,
+        0.0541
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 12,
+      "bbox": [
+        216,
+        107,
+        227,
+        131
+      ],
+      "normalized": [
+        0.5325,
+        0.2873,
+        0.0264,
+        0.0565
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 13,
+      "bbox": [
+        228,
+        106,
+        238,
+        128
+      ],
+      "normalized": [
+        0.5613,
+        0.2825,
+        0.0252,
+        0.0529
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 14,
+      "bbox": [
+        239,
+        105,
+        251,
+        130
+      ],
+      "normalized": [
+        0.5889,
+        0.2825,
+        0.0288,
+        0.0601
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 15,
+      "bbox": [
+        251,
+        105,
+        262,
+        130
+      ],
+      "normalized": [
+        0.6178,
+        0.2825,
+        0.0252,
+        0.0601
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 16,
+      "bbox": [
+        262,
+        105,
+        273,
+        128
+      ],
+      "normalized": [
+        0.6442,
+        0.2812,
+        0.0276,
+        0.0541
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 17,
+      "bbox": [
+        274,
+        105,
+        285,
+        128
+      ],
+      "normalized": [
+        0.6731,
+        0.2812,
+        0.0276,
+        0.0541
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 18,
+      "bbox": [
+        285,
+        105,
+        297,
+        126
+      ],
+      "normalized": [
+        0.7007,
+        0.2788,
+        0.0276,
+        0.0517
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 19,
+      "bbox": [
+        298,
+        105,
+        310,
+        128
+      ],
+      "normalized": [
+        0.732,
+        0.28,
+        0.03,
+        0.0553
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 20,
+      "bbox": [
+        310,
+        102,
+        322,
+        128
+      ],
+      "normalized": [
+        0.7608,
+        0.2776,
+        0.0276,
+        0.0625
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 21,
+      "bbox": [
+        321,
+        104,
+        334,
+        126
+      ],
+      "normalized": [
+        0.7873,
+        0.2776,
+        0.0312,
+        0.0541
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 22,
+      "bbox": [
+        332,
+        101,
+        347,
+        127
+      ],
+      "normalized": [
+        0.8161,
+        0.274,
+        0.0361,
+        0.0625
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 23,
+      "bbox": [
+        73,
+        154,
+        90,
+        179
+      ],
+      "normalized": [
+        0.1971,
+        0.4002,
+        0.0421,
+        0.0601
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 24,
+      "bbox": [
+        84,
+        153,
+        101,
+        179
+      ],
+      "normalized": [
+        0.2236,
+        0.399,
+        0.0409,
+        0.0625
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 25,
+      "bbox": [
+        96,
+        153,
+        112,
+        180
+      ],
+      "normalized": [
+        0.25,
+        0.4014,
+        0.0385,
+        0.0637
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 26,
+      "bbox": [
+        108,
+        154,
+        125,
+        179
+      ],
+      "normalized": [
+        0.2812,
+        0.4014,
+        0.0397,
+        0.0589
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 27,
+      "bbox": [
+        122,
+        154,
+        137,
+        180
+      ],
+      "normalized": [
+        0.3125,
+        0.4026,
+        0.0373,
+        0.0613
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 28,
+      "bbox": [
+        138,
+        155,
+        153,
+        179
+      ],
+      "normalized": [
+        0.351,
+        0.4026,
+        0.0349,
+        0.0565
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 29,
+      "bbox": [
+        148,
+        154,
+        163,
+        179
+      ],
+      "normalized": [
+        0.375,
+        0.4014,
+        0.0349,
+        0.0613
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 30,
+      "bbox": [
+        163,
+        152,
+        177,
+        176
+      ],
+      "normalized": [
+        0.4099,
+        0.3954,
+        0.0337,
+        0.0589
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 31,
+      "bbox": [
+        174,
+        153,
+        188,
+        177
+      ],
+      "normalized": [
+        0.4363,
+        0.3978,
+        0.0337,
+        0.0565
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 32,
+      "bbox": [
+        186,
+        152,
+        200,
+        178
+      ],
+      "normalized": [
+        0.4651,
+        0.3966,
+        0.0349,
+        0.0625
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 33,
+      "bbox": [
+        199,
+        151,
+        212,
+        177
+      ],
+      "normalized": [
+        0.4952,
+        0.3954,
+        0.0325,
+        0.0613
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 34,
+      "bbox": [
+        210,
+        152,
+        223,
+        177
+      ],
+      "normalized": [
+        0.5216,
+        0.3966,
+        0.0312,
+        0.0601
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 35,
+      "bbox": [
+        223,
+        150,
+        236,
+        178
+      ],
+      "normalized": [
+        0.5529,
+        0.3954,
+        0.03,
+        0.0685
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 36,
+      "bbox": [
+        236,
+        152,
+        249,
+        177
+      ],
+      "normalized": [
+        0.5841,
+        0.3966,
+        0.03,
+        0.0601
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 37,
+      "bbox": [
+        247,
+        150,
+        262,
+        176
+      ],
+      "normalized": [
+        0.613,
+        0.393,
+        0.0349,
+        0.0637
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 38,
+      "bbox": [
+        263,
+        147,
+        275,
+        177
+      ],
+      "normalized": [
+        0.6478,
+        0.3894,
+        0.03,
+        0.0721
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 39,
+      "bbox": [
+        276,
+        148,
+        289,
+        179
+      ],
+      "normalized": [
+        0.6791,
+        0.3942,
+        0.0312,
+        0.0733
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 40,
+      "bbox": [
+        287,
+        146,
+        302,
+        177
+      ],
+      "normalized": [
+        0.7091,
+        0.3894,
+        0.0361,
+        0.0733
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 41,
+      "bbox": [
+        301,
+        148,
+        315,
+        177
+      ],
+      "normalized": [
+        0.7416,
+        0.3918,
+        0.0325,
+        0.0697
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 42,
+      "bbox": [
+        314,
+        147,
+        329,
+        178
+      ],
+      "normalized": [
+        0.774,
+        0.3918,
+        0.0373,
+        0.0745
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 43,
+      "bbox": [
+        328,
+        147,
+        342,
+        177
+      ],
+      "normalized": [
+        0.8065,
+        0.3906,
+        0.0337,
+        0.0709
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 44,
+      "bbox": [
+        341,
+        149,
+        356,
+        176
+      ],
+      "normalized": [
+        0.8389,
+        0.3918,
+        0.0373,
+        0.0661
+      ],
+      "initial_status": "empty"
+    },
+    {
+      "slot_id": 45,
+      "bbox": [
+        65,
+        175,
+        81,
+        208
+      ],
+      "normalized": [
+        0.1767,
+        0.4615,
+        0.0373,
+        0.0793
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 46,
+      "bbox": [
+        76,
+        176,
+        94,
+        209
+      ],
+      "normalized": [
+        0.2055,
+        0.4639,
+        0.0445,
+        0.0805
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 47,
+      "bbox": [
+        88,
+        173,
+        104,
+        208
+      ],
+      "normalized": [
+        0.232,
+        0.4591,
+        0.0397,
+        0.0829
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 48,
+      "bbox": [
+        99,
+        178,
+        116,
+        211
+      ],
+      "normalized": [
+        0.2596,
+        0.4675,
+        0.0409,
+        0.0793
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 49,
+      "bbox": [
+        113,
+        176,
+        128,
+        210
+      ],
+      "normalized": [
+        0.2909,
+        0.4651,
+        0.0373,
+        0.0805
+      ],
+      "initial_status": "occupied"
+    },
+    {
+      "slot_id": 50,
+      "bbox": [
+        133,
+        177,
+        145,
+        212
+      ],
+      "normalized": [
+        0.3353,
+        0.4688,
+        0.03,
+        0.0841
+      ],
+      "initial_status": "occupied"
+    }
+  ]
+}
